@@ -14,5 +14,13 @@
 - [PCB](https://electricmusicstore.com/products/dual-oscillator-model-258c-rev2) $129.00
 
 ## Power Supplies
-
+- [Option A](http://siddarthianinnovations.bigcartel.com/product/buchla-power-distro-power-bus-boards) 
+	* Can supply up to 8 modules per board
+	* PCB $35.00
+	* Parts 
+	
+- [Option B](https://electricmusicstore.com/products/power-supply-unit-model-211)
+	* Can supply up to 5 modules
+	* PCB $109 for 2 boards
+	* Parts 
 ## Case

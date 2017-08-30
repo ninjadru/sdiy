@@ -22,5 +22,5 @@
 - [Option B](https://electricmusicstore.com/products/power-supply-unit-model-211)
 	* Can supply up to 5 modules
 	* PCB $109 for 2 boards
-	* Parts 
+	* Parts $24.95 per board 
 ## Case

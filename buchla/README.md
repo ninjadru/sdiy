@@ -17,7 +17,7 @@
 - [Option A](http://siddarthianinnovations.bigcartel.com/product/buchla-power-distro-power-bus-boards) 
 	* Can supply up to 8 modules per board
 	* PCB $35.00
-	* Parts 
+	* Parts $207.47 
 	
 - [Option B](https://electricmusicstore.com/products/power-supply-unit-model-211)
 	* Can supply up to 5 modules

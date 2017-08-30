@@ -10,4 +10,9 @@
 
 ## Modules
 ### 258-DUAL OSCILLATOR
+- [Panel](http://siddarthianinnovations.bigcartel.com/product/258c-front-panel-for-diy-kit) $55.00
+- [PCB](https://electricmusicstore.com/products/dual-oscillator-model-258c-rev2) $129.00
 
+## Power Supplies
+
+## Case

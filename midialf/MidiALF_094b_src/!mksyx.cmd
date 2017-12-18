@@ -1,0 +1,1 @@
+python tools/hex2sysex/hex2sysex.py --syx --output_file build/midialf/midialf.syx build/midialf/midialf.hex

@@ -92,3 +92,8 @@ tk@midibox.org
 - wilba_mb_seq $34.99 @modularaddict
 
 - cpu brains STM32F407G-DISC1 $21.17 @digikey 497-16287-ND
+
+
+## for cv/gate out
+- DOUT
+- AOUT_NG

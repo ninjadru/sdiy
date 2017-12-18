@@ -1,0 +1,49 @@
+v0.94b
+	- miscellaneous fixes and optimizations
+
+v0.94a
+	- fixed screen update problem after sequence switch on end (thanks to Peter_Ullrich @ MI forums)
+	- send CC1/2 CV if incoming CC matches CC1/2 controller number
+	- added aftertouch CV mode
+	- added pitch bend CV mode
+	
+v0.94
+	- implemented synchronous sequence switching: immediate or on sequence end
+	- fixed ghost gate signals when step length is longer than sequence grid (/CV)
+	- single Encoder B click while on the top level page shows Note page
+	- double Encoder B click while on the top level page shows Seq Settings page
+	- streamlined device Control Change events handling
+	- sequence transposition is now reset on start
+	
+v0.93d
+	- fixed missing CV/Gate pulses (thanks to joshuagoran @ MI forum for testing)
+	
+v0.93c
+	- fixed Seq pulse generation
+	- implemented configurable strobe width (thanks to pichenettes @ MI forum for suggestion)
+	- improved CV/Gate clock stability (thanks to joshuagoran @ MI forum for testing)
+
+v0.93b
+	- fixed problem with legato notes sounding only once when hold mode is in effect
+
+v0.93a
+	- allow note length longer than the sequence step length (thanks to shiftr @ MI forum)
+	- rotate sequence commands now rotate linked (16 and 32 step) sequences as a whole
+	- fixed problem with nonlinear progression sequence re-staring from where it was stopped
+	  instead of the first step. Thanks to Jacob Karlstrom.
+	
+v0.93
+	- implemented note CV tuning, see command page/Tune
+	- implemented CV/Gate output support, compile with ENABLE_CV_OUTPUT define to enable it (see midialf/makefile)
+	- improved LFO UI: shape set to "none" stops LFO on both CC and CV, CC set to 0 prevents LFO on CC only
+
+v0.92a
+	- rotating step encoder in step hold mode selects active step  
+
+v0.92
+	- added step hold mode toggled by SEL+CLK
+	- implemented received CC ignore/receive setting
+	- implemented root note setting learn mode
+	- implemented CC1/CC2 number learn mode
+	- implemented LFO1/2 CC number learn mode
+	
